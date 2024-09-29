@@ -216,6 +216,7 @@ Contributions are welcome. Connect on [LinkedIn](https://www.linkedin.com/in/owa
 
 ## Newsletters
 * [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
+* [AI Highlights from CogList](https://coglist.com/issues) A weekly AI newsletter
 
 ## Misc
 
